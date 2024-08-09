@@ -1,0 +1,14 @@
+C:\Users\52161105850\Desktop\exercicio-logica\Nota\Nota\bin\Debug\net8.0\Nota.exe
+C:\Users\52161105850\Desktop\exercicio-logica\Nota\Nota\bin\Debug\net8.0\Nota.deps.json
+C:\Users\52161105850\Desktop\exercicio-logica\Nota\Nota\bin\Debug\net8.0\Nota.runtimeconfig.json
+C:\Users\52161105850\Desktop\exercicio-logica\Nota\Nota\bin\Debug\net8.0\Nota.dll
+C:\Users\52161105850\Desktop\exercicio-logica\Nota\Nota\bin\Debug\net8.0\Nota.pdb
+C:\Users\52161105850\Desktop\exercicio-logica\Nota\Nota\obj\Debug\net8.0\Nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52161105850\Desktop\exercicio-logica\Nota\Nota\obj\Debug\net8.0\Nota.AssemblyInfoInputs.cache
+C:\Users\52161105850\Desktop\exercicio-logica\Nota\Nota\obj\Debug\net8.0\Nota.AssemblyInfo.cs
+C:\Users\52161105850\Desktop\exercicio-logica\Nota\Nota\obj\Debug\net8.0\Nota.csproj.CoreCompileInputs.cache
+C:\Users\52161105850\Desktop\exercicio-logica\Nota\Nota\obj\Debug\net8.0\Nota.dll
+C:\Users\52161105850\Desktop\exercicio-logica\Nota\Nota\obj\Debug\net8.0\refint\Nota.dll
+C:\Users\52161105850\Desktop\exercicio-logica\Nota\Nota\obj\Debug\net8.0\Nota.pdb
+C:\Users\52161105850\Desktop\exercicio-logica\Nota\Nota\obj\Debug\net8.0\Nota.genruntimeconfig.cache
+C:\Users\52161105850\Desktop\exercicio-logica\Nota\Nota\obj\Debug\net8.0\ref\Nota.dll

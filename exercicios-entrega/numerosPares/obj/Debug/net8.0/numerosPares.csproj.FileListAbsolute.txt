@@ -1,0 +1,15 @@
+C:\Users\52161105850\Desktop\exercicios-logica\exercicios-entrega\numerosPares\bin\Debug\net8.0\numerosPares.exe
+C:\Users\52161105850\Desktop\exercicios-logica\exercicios-entrega\numerosPares\bin\Debug\net8.0\numerosPares.deps.json
+C:\Users\52161105850\Desktop\exercicios-logica\exercicios-entrega\numerosPares\bin\Debug\net8.0\numerosPares.runtimeconfig.json
+C:\Users\52161105850\Desktop\exercicios-logica\exercicios-entrega\numerosPares\bin\Debug\net8.0\numerosPares.dll
+C:\Users\52161105850\Desktop\exercicios-logica\exercicios-entrega\numerosPares\bin\Debug\net8.0\numerosPares.pdb
+C:\Users\52161105850\Desktop\exercicios-logica\exercicios-entrega\numerosPares\obj\Debug\net8.0\numerosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52161105850\Desktop\exercicios-logica\exercicios-entrega\numerosPares\obj\Debug\net8.0\numerosPares.AssemblyInfoInputs.cache
+C:\Users\52161105850\Desktop\exercicios-logica\exercicios-entrega\numerosPares\obj\Debug\net8.0\numerosPares.AssemblyInfo.cs
+C:\Users\52161105850\Desktop\exercicios-logica\exercicios-entrega\numerosPares\obj\Debug\net8.0\numerosPares.csproj.CoreCompileInputs.cache
+C:\Users\52161105850\Desktop\exercicios-logica\exercicios-entrega\numerosPares\obj\Debug\net8.0\numerosPares.sourcelink.json
+C:\Users\52161105850\Desktop\exercicios-logica\exercicios-entrega\numerosPares\obj\Debug\net8.0\numerosPares.dll
+C:\Users\52161105850\Desktop\exercicios-logica\exercicios-entrega\numerosPares\obj\Debug\net8.0\refint\numerosPares.dll
+C:\Users\52161105850\Desktop\exercicios-logica\exercicios-entrega\numerosPares\obj\Debug\net8.0\numerosPares.pdb
+C:\Users\52161105850\Desktop\exercicios-logica\exercicios-entrega\numerosPares\obj\Debug\net8.0\numerosPares.genruntimeconfig.cache
+C:\Users\52161105850\Desktop\exercicios-logica\exercicios-entrega\numerosPares\obj\Debug\net8.0\ref\numerosPares.dll

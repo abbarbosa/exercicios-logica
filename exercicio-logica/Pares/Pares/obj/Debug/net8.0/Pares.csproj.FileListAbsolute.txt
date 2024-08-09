@@ -1,0 +1,14 @@
+C:\Users\52161105850\Desktop\exercicio-logica\Pares\Pares\bin\Debug\net8.0\Pares.exe
+C:\Users\52161105850\Desktop\exercicio-logica\Pares\Pares\bin\Debug\net8.0\Pares.deps.json
+C:\Users\52161105850\Desktop\exercicio-logica\Pares\Pares\bin\Debug\net8.0\Pares.runtimeconfig.json
+C:\Users\52161105850\Desktop\exercicio-logica\Pares\Pares\bin\Debug\net8.0\Pares.dll
+C:\Users\52161105850\Desktop\exercicio-logica\Pares\Pares\bin\Debug\net8.0\Pares.pdb
+C:\Users\52161105850\Desktop\exercicio-logica\Pares\Pares\obj\Debug\net8.0\Pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52161105850\Desktop\exercicio-logica\Pares\Pares\obj\Debug\net8.0\Pares.AssemblyInfoInputs.cache
+C:\Users\52161105850\Desktop\exercicio-logica\Pares\Pares\obj\Debug\net8.0\Pares.AssemblyInfo.cs
+C:\Users\52161105850\Desktop\exercicio-logica\Pares\Pares\obj\Debug\net8.0\Pares.csproj.CoreCompileInputs.cache
+C:\Users\52161105850\Desktop\exercicio-logica\Pares\Pares\obj\Debug\net8.0\Pares.dll
+C:\Users\52161105850\Desktop\exercicio-logica\Pares\Pares\obj\Debug\net8.0\refint\Pares.dll
+C:\Users\52161105850\Desktop\exercicio-logica\Pares\Pares\obj\Debug\net8.0\Pares.pdb
+C:\Users\52161105850\Desktop\exercicio-logica\Pares\Pares\obj\Debug\net8.0\Pares.genruntimeconfig.cache
+C:\Users\52161105850\Desktop\exercicio-logica\Pares\Pares\obj\Debug\net8.0\ref\Pares.dll
